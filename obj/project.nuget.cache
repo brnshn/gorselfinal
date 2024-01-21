@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "41X8q8PTjQoGwE9dTT1oVNmjRUgaXH283MkKXu6Nxr0SbUM5EHpl8/IsR8tyMcxFY9ZEDDS/8LcYYW9rlEOCkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sezen\\source\\repos\\FinalHomework\\FinalHomework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sezen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

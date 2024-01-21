@@ -1,0 +1,17 @@
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\FinalHomework.csproj.AssemblyReference.cache
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\FinalHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\FinalHomework.AssemblyInfoInputs.cache
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\FinalHomework.AssemblyInfo.cs
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\FinalHomework.csproj.CoreCompileInputs.cache
+C:\Users\sezen\source\repos\FinalHomework\bin\Debug\net7.0\FinalHomework.exe
+C:\Users\sezen\source\repos\FinalHomework\bin\Debug\net7.0\FinalHomework.deps.json
+C:\Users\sezen\source\repos\FinalHomework\bin\Debug\net7.0\FinalHomework.runtimeconfig.json
+C:\Users\sezen\source\repos\FinalHomework\bin\Debug\net7.0\FinalHomework.dll
+C:\Users\sezen\source\repos\FinalHomework\bin\Debug\net7.0\FinalHomework.pdb
+C:\Users\sezen\source\repos\FinalHomework\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\FinalHomework.csproj.CopyComplete
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\FinalHomework.dll
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\refint\FinalHomework.dll
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\FinalHomework.pdb
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\FinalHomework.genruntimeconfig.cache
+C:\Users\sezen\source\repos\FinalHomework\obj\Debug\net7.0\ref\FinalHomework.dll
